@@ -32,6 +32,7 @@
   self.window.rootViewController = rootViewController;
   [self.window makeKeyAndVisible];
   return YES;
+  //fix bugs 1
 }
 
 @end
